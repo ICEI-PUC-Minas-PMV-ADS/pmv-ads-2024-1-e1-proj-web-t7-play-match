@@ -41,8 +41,11 @@ Necessidades:
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1. Acesso à localização de quadras esportivas.
+<td>
+1. Acesso à localização de quadras esportivas.
+
 2. Acesso ao quadro de horários de quadras esportivas.
+
 3. Acesso a contato de equipes esportivas. (iniciante/intermediário/avançado) com vaga para novos jogadores.</td>
 </tr>
 </tbody>
