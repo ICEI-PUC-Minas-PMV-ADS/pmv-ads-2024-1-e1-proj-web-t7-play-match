@@ -1,12 +1,12 @@
 # Título do Projeto
 
-`Curso`
+`Tecnólogo em Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto Eixo 1 - Turma 07 - Grupo 01`
 
-`SEMESTRE`
+`1º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O projeto consiste em um aplicativo que visa facilitar o acesso às quadras esportivas, proporcionando aos usuários uma plataforma intuitiva para localizar e reservar quadras disponíveis em suas proximidades. Com funcionalidades que incluem visualização de horários, busca por esportes específicos e a possibilidade de encontrar parceiros para jogar, o aplicativo busca atender às necessidades de uma ampla gama de praticantes de atividades físicas, promovendo um estilo de vida mais ativo e saudável em comunidades urbanas.
 
 ## Integrantes
 
