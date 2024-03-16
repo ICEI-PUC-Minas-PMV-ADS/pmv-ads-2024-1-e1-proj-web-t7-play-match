@@ -108,8 +108,32 @@ Perfis de Usuários
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 |  A aplicação deve permitir o cadastro de usuários  | Alta  | 
+| RF-02 |  A aplicação deve permitir que os usuários cadastrados acessem suas contas| Alta  |
+| RF-03 |  A aplicação deve permitir cadastro de quadras | Alta |
+| RF-04 |  A aplicação deve permitir acesso aos quadros de horários das quadras  | Alta   |
+| RF-05 |  ...                    | ...   |
+| RF-06 |  ...                    | ...   |
+| RF-07 |  ...                    | ...   |
+| RF-08 |  ...                    | ...   |
+| RF-09 |  ...                    | ...   |
+| RF-10 |  ...                    | ...   |
+| RF-11 |  ...                    | ...   |
+| RF-12 |  ...                    | ...   |
+| RF-13 |  ...                    | ...   |
+| RF-14 |  ...                    | ...   |
+| RF-15 |  ...                    | ...   |
+| RF-16 |  ...                    | ...   |
+| RF-17 |  ...                    | ...   |
+| RF-18 |  ...                    | ...   |
+| RF-19 |  ...                    | ...   |
+| RF-20 |  ...                    | ...   |
+| RF-21 |  ...                    | ...   |
+| RF-22 |  ...                    | ...   |
+| RF-23 |  ...                    | ...   |
+| RF-24 |  ...                    | ...   |
+| RF-25 |  ...                    | ...   |
+| RF-26 |  ...                    | ...   |
 
 **Prioridade: Alta / Média / Baixa. 
 
