@@ -27,7 +27,7 @@ Perfis de Usuários
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfi 02 - Gestor da Quadra </th>
+<th colspan="2">Perfil 02 - Gestor da Quadra </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
