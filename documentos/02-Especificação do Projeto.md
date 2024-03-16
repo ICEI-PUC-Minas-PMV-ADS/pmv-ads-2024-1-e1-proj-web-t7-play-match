@@ -4,15 +4,6 @@
 
 Perfis de Usuários
 
-Perfil 01: Jogador
-Descrição:
-Indivíduo que prática ou pretende praticar algum esporte. (iniciante, intermediário, avançado)
-Necessidades:
-1. Acesso à localização de quadras esportivas.
-2. Acesso ao quadro de horários de quadras esportivas.
-3. Acesso a contato de equipes esportivas. (iniciante/intermediário/avançado) com vaga para novos jogadores.
-
-
 Perfil 02: Gestor de Quadra
 Descrição:
 Indivíduo que administra uma quadra esportiva. 
@@ -42,7 +33,7 @@ Necessidades:
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil 01 Jogador </th>
+<th colspan="2">Perfil 01 - Jogador </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -51,7 +42,9 @@ Necessidades:
 <tr>
 <td><b>Necessidades</b></td>
 <td>1. Acesso à localização de quadras esportivas.
+
 2. Acesso ao quadro de horários de quadras esportivas.
+
 3. Acesso a contato de equipes esportivas. (iniciante/intermediário/avançado) com vaga para novos jogadores.</td>
 </tr>
 </tbody>
