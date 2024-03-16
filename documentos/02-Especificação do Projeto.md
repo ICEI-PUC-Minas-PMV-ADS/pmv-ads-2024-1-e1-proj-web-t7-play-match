@@ -142,8 +142,15 @@ Perfis de Usuários
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
-
+| RNF-01 | A aplicação deve ser compatível com dispositivos de múltiplas plataformas (desktop, tablet, smartphone) | Alta | 
+| RNF-02 | A aplicação deve ser publicada em um ambiente acessível público na Internet | Alta | 
+| RNF-03 | A aplicação deve ter bom nível de contraste entre os elementos da tela | Média | 
+| RNF-04 | A aplicação deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox, Microsoft Edge | Alta | 
+| RNF-05 | A aplicação deve ter uma interface adequada ao público-alvo | Alta | 
+| RNF-06 | A aplicação deve ter escalabilidade, permitindo 10.000 acessos por minuto | Alta | 
+| RNF-07 | A aplicação deve ser fácil de manter e atualizar | Alta | 
+| RNF-08 | A aplicação deve ter disponibilidade, para isso deve ter redundância de servidores | Alta | 
+| RNF-09 | A aplicação deve proteger os dados dos usuários cadastrados, de acordo com a LGPD | Alta | 
+| RNF-10 | A aplicação deve ser desenvolvida em CSS, HTML e JavaScript | Alta | 
 **Prioridade: Alta / Média / Baixa. 
 
