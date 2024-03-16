@@ -2,7 +2,42 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
+Perfis de Usuários
+
+Perfil 01: Jogador
+Descrição:
+Indivíduo que prática ou pretende praticar algum esporte. (iniciante, intermediário, avançado)
+Necessidades:
+1. Acesso à localização de quadras esportivas.
+2. Acesso ao quadro de horários de quadras esportivas.
+3. Acesso a contato de equipes esportivas. (iniciante/intermediário/avançado) com vaga para novos jogadores.
+
+
+Perfil 02: Gestor de Quadra
+Descrição:
+Indivíduo que administra uma quadra esportiva. 
+Necessidades:
+1. Divulgação de horários disponíveis de sua quadra. 
+2. Acesso à informação de clientes que tenham efetuado um reserva em sua quadra.
+3. Divulgação de localização de sua quadra.
+4. Divulgação dos meios de contato com a quadra (telefones, redes sociais, e-mail).
+
+Perfil 03: Professor
+Descrição:
+Indivíduo que ministra aulas de alguma(s) modalidade(s) esportiva(s).
+Necessidades:
+1. Divulgação de horários disponíveis de sua agenda.
+2. Acesso à informação de alunos que tenham feito agendamento de aulas.
+3. Divulgação de suas credenciais para potenciais alunos.
+
+Perfil 04: Alunos
+Descrição:
+Indivíduo que busca professores para aprender ou treinar alguma modalidade esportiva.
+Necessidades:
+1. Acesso à localização de quadras esportivas.
+2. Acesso ao quadro de horários de quadras esportivas.
+3. Acesso a contato de professores de modalidades esportivas.
+
 
 <table>
 <tbody>
@@ -23,17 +58,27 @@
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
 
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE`            |PARA ... `PORQUE`                                                                |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| Jogador            | Encontrar quadras esportivas         | Praticar atividade física                                                       |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| Jogador            | Encontrar equipes esportivas         | Conhecer novas pessoas com o mesmo objetivo                                     |
+|--------------------|---------------------------------------|--------------------------------------------------------------------------------|
+| Jogador            | Acessar quadro de horários das quadras | Para selecionar o melhor dia e hora para prática esportiva                    |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| Professor          | Encontrar alunos                     | Oferecer aulas de alguma modalidade esportiva                                   |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| Professor          | Encontrar quadras                    | Para dar aulas para meus alunos                                                 |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| Gestor da Quadra   | Encontrar clientes                   | Aumentar a lucratividade do estabelecimento                                     |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| Gestor da Quadra   | Divulgar quadro de horários          | Para que seus clientes possam ter a informação necessária para marcar um horário|
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| Aluno              | Encontrar professores                 | Aprender alguma modalidade esportiva                                           |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
+| Aluno              | Encontrar quadras esportivas         | Para escolher a quadra na região desejada                                       |
+|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 
 ## Requisitos do Projeto
 
