@@ -63,21 +63,13 @@ Necessidades:
 |--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Jogador            | Encontrar quadras esportivas         | Praticar atividade física                                                       |
 | Jogador            | Encontrar equipes esportivas         | Conhecer novas pessoas com o mesmo objetivo                                     |
-|--------------------|---------------------------------------|--------------------------------------------------------------------------------|
 | Jogador            | Acessar quadro de horários das quadras | Para selecionar o melhor dia e hora para prática esportiva                    |
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Professor          | Encontrar alunos                     | Oferecer aulas de alguma modalidade esportiva                                   |
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Professor          | Encontrar quadras                    | Para dar aulas para meus alunos                                                 |
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Gestor da Quadra   | Encontrar clientes                   | Aumentar a lucratividade do estabelecimento                                     |
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Gestor da Quadra   | Divulgar quadro de horários          | Para que seus clientes possam ter a informação necessária para marcar um horário|
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Aluno              | Encontrar professores                 | Aprender alguma modalidade esportiva                                           |
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Aluno              | Encontrar quadras esportivas         | Para escolher a quadra na região desejada                                       |
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 
 ## Requisitos do Projeto
 
