@@ -41,11 +41,8 @@ Necessidades:
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>
-1. Acesso à localização de quadras esportivas.
-
+<td>1. Acesso à localização de quadras esportivas.
 2. Acesso ao quadro de horários de quadras esportivas.
-
 3. Acesso a contato de equipes esportivas. (iniciante/intermediário/avançado) com vaga para novos jogadores.</td>
 </tr>
 </tbody>
@@ -54,15 +51,18 @@ Necessidades:
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfi 02 - Gestor da Quadra </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Indivíduo que administra uma quadra esportiva.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>1. Divulgação de horários disponíveis de sua quadra. 
+2. Acesso à informação de clientes que tenham efetuado um reserva em sua quadra.
+3. Divulgação de localização de sua quadra.
+4. Divulgação dos meios de contato com a quadra (telefones, redes sociais, e-mail).</td>
 </tr>
 </tbody>
 </table>
