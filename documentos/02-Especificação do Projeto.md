@@ -46,11 +46,13 @@ Necessidades:
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Indivíduo que prática ou pretende praticar algum esporte. (iniciante, intermediário, avançado)</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>1. Acesso à localização de quadras esportivas.
+2. Acesso ao quadro de horários de quadras esportivas.
+3. Acesso a contato de equipes esportivas. (iniciante/intermediário/avançado) com vaga para novos jogadores.</td>
 </tr>
 </tbody>
 </table>
