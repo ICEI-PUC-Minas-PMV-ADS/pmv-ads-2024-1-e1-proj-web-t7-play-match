@@ -62,7 +62,6 @@ Necessidades:
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE`            |PARA ... `PORQUE`                                                                |
 |--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Jogador            | Encontrar quadras esportivas         | Praticar atividade física                                                       |
-|--------------------|--------------------------------------|---------------------------------------------------------------------------------|
 | Jogador            | Encontrar equipes esportivas         | Conhecer novas pessoas com o mesmo objetivo                                     |
 |--------------------|---------------------------------------|--------------------------------------------------------------------------------|
 | Jogador            | Acessar quadro de horários das quadras | Para selecionar o melhor dia e hora para prática esportiva                    |
