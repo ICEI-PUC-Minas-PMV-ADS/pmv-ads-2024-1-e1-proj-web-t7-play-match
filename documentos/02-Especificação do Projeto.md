@@ -63,15 +63,18 @@ Necessidades:
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil 03 - Professor </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Indivíduo que ministra aulas de alguma(s) modalidade(s) esportiva(s). </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td> 
+1) Divulgação de horários disponíveis de sua agenda.
+2) Acesso à informação de alunos que tenham feito agendamento de aulas. 
+3) Divulgação de suas credenciais para potenciais alunos. </td>
 </tr>
 </tbody>
 </table>
