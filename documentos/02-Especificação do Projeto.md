@@ -4,15 +4,6 @@
 
 Perfis de Usuários
 
-Perfil 02: Gestor de Quadra
-Descrição:
-Indivíduo que administra uma quadra esportiva. 
-Necessidades:
-1) Divulgação de horários disponíveis de sua quadra. 
-2) Acesso à informação de clientes que tenham efetuado um reserva em sua quadra.
-3) Divulgação de localização de sua quadra.
-4) Divulgação dos meios de contato com a quadra (telefones, redes sociais, e-mail).
-
 Perfil 03: Professor
 Descrição:
 Indivíduo que ministra aulas de alguma(s) modalidade(s) esportiva(s).
@@ -41,8 +32,9 @@ Necessidades:
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td> 1) Acesso à localização de quadras esportivas.
-2) Acesso ao quadro de horários de quadras esportivas.
+<td> 
+1) Acesso à localização de quadras esportivas. 
+2) Acesso ao quadro de horários de quadras esportivas. 
 3) Acesso a contato de equipes esportivas. (iniciante/intermediário/avançado) com vaga para novos jogadores.</td>
 </tr>
 </tbody>
@@ -59,10 +51,11 @@ Necessidades:
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1. Divulgação de horários disponíveis de sua quadra. 
-2. Acesso à informação de clientes que tenham efetuado um reserva em sua quadra.
-3. Divulgação de localização de sua quadra.
-4. Divulgação dos meios de contato com a quadra (telefones, redes sociais, e-mail).</td>
+<td> 
+1) Divulgação de horários disponíveis de sua quadra. 
+2) Acesso à informação de clientes que tenham efetuado um reserva em sua quadra. 
+3) Divulgação de localização de sua quadra. 
+4) Divulgação dos meios de contato com a quadra (telefones, redes sociais, e-mail).</td>
 </tr>
 </tbody>
 </table>
