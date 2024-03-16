@@ -4,22 +4,6 @@
 
 Perfis de Usuários
 
-Perfil 03: Professor
-Descrição:
-Indivíduo que ministra aulas de alguma(s) modalidade(s) esportiva(s).
-Necessidades:
-1) Divulgação de horários disponíveis de sua agenda.
-2) Acesso à informação de alunos que tenham feito agendamento de aulas.
-3) Divulgação de suas credenciais para potenciais alunos.
-
-Perfil 04: Alunos
-Descrição:
-Indivíduo que busca professores para aprender ou treinar alguma modalidade esportiva.
-Necessidades:
-1. Acesso à localização de quadras esportivas.
-2. Acesso ao quadro de horários de quadras esportivas.
-3. Acesso a contato de professores de modalidades esportivas.
-
 
 <table>
 <tbody>
@@ -82,15 +66,19 @@ Necessidades:
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil 04 - Alunos </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Indivíduo que busca professores para aprender ou treinar alguma modalidade esportiva. </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td> 
+1) Acesso à localização de quadras esportivas.
+2) Acesso ao quadro de horários de quadras esportivas. 
+3) Acesso a contato de professores de modalidades esportivas. 
+</td>
 </tr>
 </tbody>
 </table>
