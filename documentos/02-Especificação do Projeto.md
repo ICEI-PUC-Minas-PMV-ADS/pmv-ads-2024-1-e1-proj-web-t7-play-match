@@ -103,8 +103,8 @@ Perfis de Usuários
 ### Requisitos Funcionais
 
 
-|ID    | Descrição                | Prioridade |
-|-------|---------------------------------|----|
+|ID      | Descrição                 | Prioridade  |
+|--------|---------------------------------|----|
 | RF-01 | A aplicação deve permitir o cadastro de usuários | Alta |
 | RF-02 | A aplicação deve permitir que os usuários cadastrados acessem suas contas| Alta |
 | RF-03 | A aplicação deve permitir cadastro de quadras | Alta |
