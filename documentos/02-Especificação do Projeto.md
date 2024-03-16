@@ -110,7 +110,7 @@ Perfis de Usuários
 | RF-03 | A aplicação deve permitir cadastro de quadras | Alta |
 | RF-04 | A aplicação deve permitir acesso aos quadros de horários das quadras | Alta |
 | RF-05 | A aplicação deve permitir acesso às modalidades esportivas disponíveis nas quadras cadastradas | Alta |
-| RF-06 | A aplicação deve restringir algumas funcionalidades para usuários não cadastrados (RF-07, RF-11, RF-12, RF-13, RF-17, RF-18,RF-20, RF-25)| Alta |
+| RF-06 | A aplicação deve restringir algumas funcionalidades para usuários não cadastrados (RF-07, RF-11, RF-12, RF-13, RF-17, RF-18, RF-20, RF-25)| Alta |
 | RF-07 | A aplicação deve permitir que o usuário faça a reserva de horário mediante pagamento | Média |
 | RF-08 | A aplicação deve fornecer informações sobre a disponibilidade das quadras que gravam partidas  | Baixa |
 | RF-09 | A aplicação deve permitir que os gestor da quadra publique fotos do seu ambiente para facilitar a escolha dos jogadores | Média  |
