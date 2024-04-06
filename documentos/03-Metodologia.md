@@ -16,7 +16,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Scrum Master: Samara, principal responsável pela gestão do projeto.
 - Product Owner: Eduardo, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
 - Equipe de Desenvolvimento: Carlos, Eduardo, Hana, Samara, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Samara.
+- Equipe de Design: Samara, Carlos.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
