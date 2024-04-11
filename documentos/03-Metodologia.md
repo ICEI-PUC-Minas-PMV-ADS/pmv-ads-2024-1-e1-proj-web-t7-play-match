@@ -8,8 +8,8 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
+A equipe utiliza o Scrum como base para definição do processo de desenvolvimento e esta organizada da seguinte forma:
+
 - Scrum Master: Samara.
 - Product Owner: Eduardo.
 - Equipe de Desenvolvimento: Carlos, Eduardo, Hana, Samara, pois todos os membros deverão implementar uma tela/funcionalidade.
