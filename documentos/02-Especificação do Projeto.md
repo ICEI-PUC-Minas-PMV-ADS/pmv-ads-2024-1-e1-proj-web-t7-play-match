@@ -2,7 +2,7 @@
 
 ## Perfis de Usuários
 
-Perfis de Usuários
+Perfis de Usuários:
 
 
 <table>
