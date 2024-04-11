@@ -29,7 +29,7 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
   <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
   <li>Rodapé - apresenta informações sobre os direitos autorais.</li>
 </ul>
-
+//inserir a imagem//
 <figure> 
   <img src=""
     <figcaption>Figura 2 - Estrutura padrão do site
