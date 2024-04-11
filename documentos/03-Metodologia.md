@@ -62,7 +62,7 @@ As ferramentas empregadas no projeto são:
 
 [Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
 
-<p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Figma, apresentadas com seu propósito na tabela que se segue.<p/>
+<p>Os artefatos do projeto são desenvolvidos a partir das plataformas <strong></strong>GitHub e Figma</strong>, apresentadas com seu propósito na tabela que se segue.<p/>
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
