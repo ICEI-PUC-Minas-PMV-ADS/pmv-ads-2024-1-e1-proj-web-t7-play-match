@@ -36,7 +36,7 @@ O quadro kanban do grupo no GitHub está disponível no link: //inserir o link//
 
 <figure> 
   <img src=>
-    <figcaption>Figura 1 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
+    <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 </figure> 
 
 > **Links Úteis**:
