@@ -61,8 +61,8 @@
 - <strong>Ferramentas de comunicação;</strong>
 - <strong>Ferramentas de desenho de tela.</strong> (_wireframing_)
 
-Como ferramenta de edição de código, optamos pela IDE Visual Studio Code, pois a mesma possui uma fácil integração com o sistema de controle de versão GIT, pois através dele iremos ter acesso ao código fonte do projeto que estará no Github e assim poderemos
-realizar o proceso de codificação do projeto realizar o Commit para o Github. Como ferramenta de comunicação estaremos utilizando o Discord, pois com está ferramenta podemos realizar diversas reuniões entre os membros do grupo, para tirar as dúvidas e darmos seguimento no projeto. Como ferramenta de Wireframe, estaremos utilizando Figma, pois através dele iremos ter acessos as propriedades que irão nos auxiliar durante o processo de criação da aplicação.
+Como ferramenta para edição de código optamos por utilizar a IDE Visual Estudio Code pela facilidade de integração com o sistema de controle de versão Git, assim, através dele iremos ter acesso ao codigo fonte do projeto que estará no Github nos possibilitando realizar o processo de codificação e tambem de realizar os commits.
+Como ferramenta de comunicação optamos pelo Discord por se tratar de uma ferramenta com maior facilidade de acesso e variedade de recursos para alinharmos detalhes do projeto nas reuniões em grupo. Já como ferramenta de Wireframe escolhemos o Figma, que possui as ferramentas e propriedades ideais para nos auxiliar no processo de criação e por se tratar de uma ferramenta de alta fidelidade teremos uma visão mais próxima do resultado.
 
 <p>Os artefatos do projeto são desenvolvidos a partir das plataformas <strong>GitHub e Figma</strong>, apresentadas com seu propósito na tabela que se segue.<p/>
 
