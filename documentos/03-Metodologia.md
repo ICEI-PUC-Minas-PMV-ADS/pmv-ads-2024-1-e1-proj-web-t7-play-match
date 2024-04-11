@@ -13,10 +13,10 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 [Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Samara, principal responsável pela gestão do projeto.
-- Product Owner: Eduardo e Hana representantes dos interesses de todos os envolvidos (Stakeholders), definem as funcionalidades do produto e priorizam os itens de Product Backlog.
+- Scrum Master: Samara.
+- Product Owner: Eduardo.
 - Equipe de Desenvolvimento: Carlos, Eduardo, Hana, Samara, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Samara, Carlos.
+- Equipe de Design: Samara e Carlos.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
