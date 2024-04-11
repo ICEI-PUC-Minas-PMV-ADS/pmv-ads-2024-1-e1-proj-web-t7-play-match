@@ -9,7 +9,7 @@
 
 ### Divisão de Papéis
 
-<p>A equipe utiliza o Scrum como base para definição do processo de desenvolvimento e esta organizada da seguinte forma:</p>
+<p>A equipe utiliza o <strong>Scrum</strong> como base para definição do processo de desenvolvimento e esta organizada da seguinte forma:</p>
 
 - <strong>Scrum Master:</strong> Samara.
 - <strong>Product Owner:</strong> Eduardo e Hana.
@@ -18,7 +18,7 @@
 
 ### Processo
 
-<p>Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas:</p>
+<p>Para organização e distribuição das tarefas do projeto, a equipe está utilizando o <strong>GitHub</strong>, estruturado com as seguintes listas:</p>
 
 - <strong>Backlog:</strong> recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 - <strong>To Do:</strong> Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
