@@ -22,13 +22,13 @@ Além disso, a plataforma oferecerá a oportunidade de conectar pessoas que comp
 
 <p>No entanto, apesar do interesse generalizado em atividades físicas, muitas pessoas enfrentam dificuldades significativas na busca por espaços esportivos adequados para a prática de seus esportes favoritos. A disponibilidade limitada de quadras esportivas e a falta de informações claras sobre horários e locais de prática representam obstáculos significativos para aqueles que desejam se engajar em atividades físicas de maneira consistente.</p>
 
-Portanto, investir em soluções que facilitem o acesso a quadras esportivas é não apenas uma medida prática, mas também uma iniciativa que promove a saúde pública e o bem-estar geral da população. Ao tornar mais acessível a prática de atividades físicas, podemos incentivar hábitos de vida saudáveis e contribuir para a construção de uma sociedade mais ativa e resiliente.
+<p>Portanto, investir em soluções que facilitem o acesso a quadras esportivas é não apenas uma medida prática, mas também uma iniciativa que promove a saúde pública e o bem-estar geral da população. Ao tornar mais acessível a prática de atividades físicas, podemos incentivar hábitos de vida saudáveis e contribuir para a construção de uma sociedade mais ativa e resiliente.</p>
 
 ## Público-Alvo
 
-O público-alvo para o projeto descrito seria amplo e diversificado, abrangendo diversos grupos demográficos e faixas etárias. Alguns dos segmentos que poderiam se beneficiar diretamente do projeto incluem:                                                                 
+<p>O público-alvo para o projeto descrito seria amplo e diversificado, abrangendo diversos grupos demográficos e faixas etárias. Alguns dos segmentos que poderiam se beneficiar diretamente do projeto incluem:</p>                                                                 
 
-    • Praticantes de atividades físicas: Pessoas que buscam praticar esportes regularmente, sejam eles amadores ou profissionais.
+    • <strong>Praticantes de atividades físicas:</strong> Pessoas que buscam praticar esportes regularmente, sejam eles amadores ou profissionais.
 
     • Entusiastas de esportes específicos: Indivíduos interessados em esportes específicos, como futebol, basquete, tênis, vôlei, entre outros.
 
