@@ -25,7 +25,7 @@
 - <strong>Doing:</strong> Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - <strong>Done:</strong> nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro kanban do grupo no GitHub está disponível no link: //inserir o link// e é apresentado, no estado atual, na figura abaixo:
+<p>O quadro kanban do grupo no GitHub está disponível no link: //inserir o link// e é apresentado, no estado atual, na figura abaixo:</p>
 
 <figure> 
   <img src=>
@@ -58,7 +58,7 @@ O quadro kanban do grupo no GitHub está disponível no link: //inserir o link//
 <p>As ferramentas empregadas no projeto são:</p>
 
 - <strong>Editor de código;</strong>
-- <strong></strong>Ferramentas de comunicação;</strong>
+- <strong>Ferramentas de comunicação;</strong>
 - <strong>Ferramentas de desenho de tela.</strong> (_wireframing_)
 
 [Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
@@ -76,4 +76,5 @@ O quadro kanban do grupo no GitHub está disponível no link: //inserir o link//
 
 ### Estratégia de Organização de Codificação 
 
-Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte).
+<p>Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte).
+</p>
