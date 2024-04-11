@@ -61,7 +61,8 @@
 - <strong>Ferramentas de comunicação;</strong>
 - <strong>Ferramentas de desenho de tela.</strong> (_wireframing_)
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+Utilizamos como ferramentas de edição de código, optamos pela IDE Visual Studio Code, pois a mesma possui uma fácil integração com o sistema de controle de versão GIT, pois através dele iremos ter acesso ao código fonte do projeto que estará no Github e assim poderemos
+realizar o proceso de codificação do projeto realizar o Commit para o Github. Como ferramenta de comunicação estaremos utilizando o Discord, pois com está ferramenta podemos realizar diversas reuniões entre os membros do grupo, para tirar as dúvidas e darmos seguimento no projeto. Como ferramenta de Wireframe, estaremos utilizando Figma, pois através dele iremos ter acessos as propriedades que irão nos auxiliar durante o processo de criação da aplicação.
 
 <p>Os artefatos do projeto são desenvolvidos a partir das plataformas <strong>GitHub e Figma</strong>, apresentadas com seu propósito na tabela que se segue.<p/>
 
