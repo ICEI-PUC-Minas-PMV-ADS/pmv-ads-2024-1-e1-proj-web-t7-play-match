@@ -2,18 +2,19 @@
 # Metodologia
 
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o <strong>SCRUM</strong>, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são:
+<p>A metodologia ágil escolhida para o desenvolvimento deste projeto foi o <strong>SCRUM</strong>, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são:
 
 “Visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+</p>
 
 ### Divisão de Papéis
 
 <p>A equipe utiliza o Scrum como base para definição do processo de desenvolvimento e esta organizada da seguinte forma:</p>
 
-- <li><strong>Scrum Master:</strong> Samara.</li>
-- <li><strong>Product Owner:</strong> Eduardo e Hana.</li>
-- <li><strong>Equipe de Desenvolvimento:</strong> Carlos, Eduardo, Hana e Samara, pois todos os membros deverão implementar uma tela/funcionalidade.</li>
-- <li><strong>Equipe de Design:</strong> Samara e Carlos.</li>
+- <strong>Scrum Master:</strong> Samara.
+- <strong>Product Owner:</strong> Eduardo e Hana.
+- <strong>Equipe de Desenvolvimento:</strong> Carlos, Eduardo, Hana e Samara, pois todos os membros deverão implementar uma tela/funcionalidade.
+- <strong>Equipe de Design:</strong> Samara e Carlos.
 
 ### Processo
 
@@ -56,9 +57,9 @@ O quadro kanban do grupo no GitHub está disponível no link: //inserir o link//
 
 <p>As ferramentas empregadas no projeto são:</p>
 
-- <li><strong>Editor de código;</strong></li>
-- <li><strong></strong>Ferramentas de comunicação;</strong></li>
-- <li><strong>Ferramentas de desenho de tela.</strong></li> (_wireframing_)
+- <strong>Editor de código;</strong>
+- <strong></strong>Ferramentas de comunicação;</strong>
+- <strong>Ferramentas de desenho de tela.</strong> (_wireframing_)
 
 [Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
 
