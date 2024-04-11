@@ -11,8 +11,8 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento e esta organizada da seguinte forma:
 
 - Scrum Master: Samara.
-- Product Owner: Eduardo.
-- Equipe de Desenvolvimento: Carlos, Eduardo, Hana, Samara, pois todos os membros deverão implementar uma tela/funcionalidade.
+- Product Owner: Eduardo e Hana
+- Equipe de Desenvolvimento: Carlos, Eduardo, Hana e Samara, pois todos os membros deverão implementar uma tela/funcionalidade.
 - Equipe de Design: Samara e Carlos.
 
 ### Processo
