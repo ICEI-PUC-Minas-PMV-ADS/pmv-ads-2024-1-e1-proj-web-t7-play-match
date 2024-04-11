@@ -28,7 +28,7 @@ Além disso, a plataforma oferecerá a oportunidade de conectar pessoas que comp
 
 <p>O público-alvo para o projeto descrito seria amplo e diversificado, abrangendo diversos grupos demográficos e faixas etárias. Alguns dos segmentos que poderiam se beneficiar diretamente do projeto incluem:</p>                                                                 
 
-    • <strong>Praticantes de atividades físicas:</strong> Pessoas que buscam praticar esportes regularmente, sejam eles amadores ou profissionais.
+    • Praticantes de atividades físicas: Pessoas que buscam praticar esportes regularmente, sejam eles amadores ou profissionais.
 
     • Entusiastas de esportes específicos: Indivíduos interessados em esportes específicos, como futebol, basquete, tênis, vôlei, entre outros.
 
@@ -45,4 +45,4 @@ Além disso, a plataforma oferecerá a oportunidade de conectar pessoas que comp
     • Alunos que procuram professores para ministrar aulas de modalidades esportivas.
 
 
-O projeto visa atender às necessidades e interesses desses diversos públicos, proporcionando uma plataforma acessível e conveniente para encontrar e reservar quadras esportivas, facilitando assim a prática de atividades físicas e esportivas.
+<p>O projeto visa atender às necessidades e interesses desses diversos públicos, proporcionando uma plataforma acessível e conveniente para encontrar e reservar quadras esportivas, facilitando assim a prática de atividades físicas e esportivas.</p>
