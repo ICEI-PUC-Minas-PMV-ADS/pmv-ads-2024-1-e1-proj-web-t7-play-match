@@ -61,7 +61,7 @@
 - <strong>Ferramentas de comunicação;</strong>
 - <strong>Ferramentas de desenho de tela.</strong> (_wireframing_)
 
-Como ferramenta para edição de código optamos por utilizar a <strong>IDE Visual Studio Code</strong> pela facilidade de integração com o sistema de controle de versão Git, assim, através dele iremos ter acesso ao codigo fonte do projeto que estará no <strong>Github<strong> nos possibilitando realizar o processo de codificação e tambem de realizar os commits.
+Como ferramenta para edição de código optamos por utilizar a IDE <strong>Visual Studio Code</strong> pela facilidade de integração com o sistema de controle de versão Git, assim, através dele iremos ter acesso ao codigo fonte do projeto que estará no <strong>Github</strong> nos possibilitando realizar o processo de codificação e tambem de realizar os commits.
 
 <p>Os artefatos do projeto são desenvolvidos a partir das plataformas <strong>GitHub e Figma</strong>, apresentadas com seu propósito na tabela que se segue.<p/>
 
