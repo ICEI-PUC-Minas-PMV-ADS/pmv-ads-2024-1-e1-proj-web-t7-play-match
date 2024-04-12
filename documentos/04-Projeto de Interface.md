@@ -4,7 +4,8 @@
 ## User Flow
 
 <p>O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o <a href="https://www.figma.com/proto/VFvPmnAJoD9AUZqj33EeL4/Play-Match?node-id=90-263"><strong>PlayMatch</strong></a>.
-
+<br>
+<hr>
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/playmatchv2.drawio.png" alt="userflow">
   <figcaption>User-Flow</figcaption>
