@@ -25,7 +25,7 @@
 - <strong>Doing:</strong> Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - <strong>Done:</strong> nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-<p>O quadro kanban do grupo no GitHub está disponível no link: //inserir o link// e é apresentado, no estado atual, na figura abaixo:</p>
+<p>O quadro kanban do grupo no GitHub está disponível no link: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/trello2.jpg">Trello</a> e é apresentado, no estado atual, na figura abaixo:</p>
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/trello2.jpg">
