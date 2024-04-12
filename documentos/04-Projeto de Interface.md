@@ -3,11 +3,11 @@
 
 ## User Flow
 
-<p>O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o <a href="https://www.figma.com/file/VFvPmnAJoD9AUZqj33EeL4/">Figma-PlayMatch</a>.
+<p>O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o <a href="">Figma-PlayMatch</a>.
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
-<a href="https://www.figma.com/file/VFvPmnAJoD9AUZqj33EeL4/Play-Match?type=design&node-id=0-1&mode=design">Projeto de Interface Play Match</a> 
+<a href="https://www.figma.com/file/VFvPmnAJoD9AUZqj33EeL4/Play-Match?type=">Projeto de Interface Play Match</a> 
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
