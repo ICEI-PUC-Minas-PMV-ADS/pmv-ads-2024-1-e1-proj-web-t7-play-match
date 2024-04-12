@@ -40,7 +40,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 ## Protótipo de alta fidelidade
 
-Protótipos de alta fidelidade é uma representação interativa do produto, baseado em dispositivos desktop ou mobile. tendo uma finalidade de realizar diversos testes com os usuários, como o teste de usabilidade. Através dele podemos identificar diversos problemas com relação a utilização do mesmo, podendo monitorar e entender a interação com o cliente.
+Protótipo de alta fidelidade é uma representação interativa do produto mais proxima do resultado final baseado em dispositivos desktop ou mobile,
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
