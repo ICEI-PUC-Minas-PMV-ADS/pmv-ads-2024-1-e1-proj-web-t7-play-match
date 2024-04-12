@@ -69,7 +69,7 @@ Como ferramenta para edição de código optamos por utilizar a IDE <strong>Visu
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/tree/main/codigo-fonte|
 | Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              |    file/VFvPmnAJoD9AUZqj33EeL4/Play-Match?type=design&fuid=1357494481960855370                     |
+| Projeto de Interface                | Figma                              | https://www.figma.com/file/VFvPmnAJoD9AUZqj33EeL4/Play-Match?type=design&fuid=1357494481960855370                   |
 | Gerenciamento do Projeto            | Trello                             | https://trello.com/b/seOmByHY/play-match                       |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
