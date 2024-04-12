@@ -37,6 +37,10 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 [Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
 
 [Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
+
+## Protótipo de alta fidelidade
+
+Protótipos de alta fidelidade é uma interface do produto ao qual será desenvolvido
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
