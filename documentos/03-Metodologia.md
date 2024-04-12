@@ -11,9 +11,9 @@
 
 <p>A equipe utiliza o <strong>Scrum</strong> como base para definição do processo de desenvolvimento e esta organizada da seguinte forma:</p>
 
-- <strong>Scrum Master:</strong> Samara.
-- <strong>Product Owner:</strong> Eduardo e Hana.
-- <strong>Equipe de Desenvolvimento:</strong> Carlos, Eduardo, Hana e Samara, pois todos os membros deverão implementar uma tela/funcionalidade.
+- <strong>Scrum Master:</strong> Samara Lorena da Silva Barros.
+- <strong>Product Owner:</strong> Eduardo Coutinho da Silva Junior e Hana Karolina Neves Siqueira.
+- <strong>Equipe de Desenvolvimento:</strong> Carlos Henrique Gonçalves Costa, Eduardo Coutinho da Silva Junior, Hana Karolina Neves Siqueira e Samara Lorena da Silva Barros, pois todos os membros deverão implementar uma tela/funcionalidade.
 - <strong>Equipe de Design:</strong> Samara e Carlos.
 
 ### Processo
