@@ -73,8 +73,3 @@
 | Gerenciamento do Projeto            | Trello                             | <a href="https://trello.com/b/seOmByHY/play-match" target="_blank"><strong>Trello</strong><a>                       |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
-
-### Estratégia de Organização de Codificação 
-
-<p>Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte).
-</p>
