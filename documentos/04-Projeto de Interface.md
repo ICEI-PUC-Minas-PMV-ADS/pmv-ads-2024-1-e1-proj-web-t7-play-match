@@ -10,7 +10,7 @@
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/playmatchv2.drawio.png" alt="userflow">
   <figcaption>Figura 1 - User-Flow</figcaption>
 
-</figure>
+</figure></p>
 
 
 <p>Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.</p>
@@ -52,7 +52,7 @@ Protótipo de alta fidelidade é uma representação interativa do produto mais 
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/tela%20completa.jpeg" alt="Prototipo de alta fidelidade"/>
-  <figcaption>Imagem 2 - Protótico de alta fidelidade</figcaption>
+  <figcaption>Imagem 2 - Protótipo de alta fidelidade</figcaption>
 </figure>
  
 
