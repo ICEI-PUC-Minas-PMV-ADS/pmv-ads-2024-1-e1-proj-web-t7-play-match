@@ -3,7 +3,7 @@
 
 ## User Flow
 
-<p>O fluxograma apresentado na figura 1 mostra os caminhos de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de alta fidelidade que se segue. Para visualizar o protótipo interativo, acesse o <a href="https://www.figma.com/proto/VFvPmnAJoD9AUZqj33EeL4/Play-Match?node-id=90-263"><strong>PlayMatch</strong></a>.
+<p>O fluxograma apresentado na <strong>figura 1</strong> mostra os caminhos de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de alta fidelidade que será apresentado a baixo. Para visualizar o protótipo interativo, acesse o <a href="https://www.figma.com/proto/VFvPmnAJoD9AUZqj33EeL4/Play-Match?node-id=90-263"><strong>PlayMatch</strong></a>.
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/playmatchv2.drawio.png" alt="userflow">
