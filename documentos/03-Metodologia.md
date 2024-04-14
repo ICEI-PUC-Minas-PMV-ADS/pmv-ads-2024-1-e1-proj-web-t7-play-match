@@ -68,7 +68,7 @@
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | <a style="text-decoration:none" href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/tree/main/codigo-fonte"><strong>Código Fonte</strong></a>|
-| Documentos do projeto               | GitHub                             | http://....                            |
+| Documentos do projeto               | GitHub                             | <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md"><strong>Documentação</strong></a>                            |
 | Projeto de Interface                | Figma                              | <a href="https://www.figma.com/file/VFvPmnAJoD9AUZqj33EeL4/Play-Match?type=design&fuid=1357494481960855370" target="_blank"><strong>PlayMatch</strong></a>                   |
 | Gerenciamento do Projeto            | Trello                             | <a href="https://trello.com/b/seOmByHY/play-match" target="_blank"><strong>Trello</strong><a>                       |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
