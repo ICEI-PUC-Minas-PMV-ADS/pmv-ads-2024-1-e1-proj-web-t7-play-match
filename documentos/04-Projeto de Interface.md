@@ -42,7 +42,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 ## Protótipo de alta fidelidade
 
-<p>Protótipo de alta fidelidade é uma representação interativa do produto, mais proxima do resultado final, baseado em dispositivos desktop ou mobile,com a finalidade de realizar testes com os usuários. Um exemplo é o teste de usabilidade, onde podemos identificar possíveis problemas em relação a utilização do produto, possibilitando monitorar e entender a interação do cliente de forma mais eficaz.
+<p>Protótipo de alta fidelidade é uma representação interativa do produto, mais proxima do resultado final, baseado em dispositivos desktop ou mobile, com a finalidade de realizar testes com os usuários. Um exemplo é o teste de usabilidade, onde podemos identificar possíveis problemas em relação a utilização do produto, possibilitando monitorar e entender a interação do cliente de forma mais eficaz.
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/tela%20completa.jpeg" alt="Prototipo de alta fidelidade"/>
