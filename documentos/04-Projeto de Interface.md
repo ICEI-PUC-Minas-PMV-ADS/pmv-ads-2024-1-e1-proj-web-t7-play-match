@@ -20,25 +20,6 @@
 
 Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento.
 
-### Protótipo de baixa fidelidade
-
-<p>As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
-<ul>
-  <li>Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);</li>
-  <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
-  <li>Rodapé - apresenta informações sobre os direitos autorais.</li>
-</ul>
-//inserir a imagem//
-<figure> 
-  <img src=""
-    <figcaption>Figura 2 - Estrutura padrão do site
-</figure> </p>
-
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
-
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
-
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
 
 ## Protótipo de alta fidelidade
 
