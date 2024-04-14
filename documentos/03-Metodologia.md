@@ -14,7 +14,7 @@
 - <strong>Scrum Master:</strong> Samara Lorena da Silva Barros.
 - <strong>Product Owner:</strong> Eduardo Coutinho da Silva Junior e Hana Karolina Neves Siqueira.
 - <strong>Equipe de Desenvolvimento:</strong> Carlos Henrique Gonçalves Costa, Eduardo Coutinho da Silva Junior, Hana Karolina Neves Siqueira e Samara Lorena da Silva Barros, pois todos os membros deverão implementar uma tela/funcionalidade.
-- <strong>Equipe de Design:</strong> Samara e Carlos.
+- <strong>Equipe de Design:</strong> Samara Lorena da Silva Barros e Carlos Henrique Gonçalves Costa.
 
 ### Processo
 
