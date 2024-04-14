@@ -29,7 +29,7 @@
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/trello2.jpg">
-    <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
+    <figcaption>Figura 1 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 </figure> 
 
 
@@ -50,7 +50,7 @@
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+    <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
   
 ### Ferramentas
