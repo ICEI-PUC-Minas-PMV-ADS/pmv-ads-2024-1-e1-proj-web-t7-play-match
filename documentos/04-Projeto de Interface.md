@@ -7,7 +7,7 @@
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/tela%20completa.jpeg" alt="userflow">
-  <figcaption>Figura 1 - User-Flow</figcaption>
+  <figcaption>Figura 1 - User Flow</figcaption>
 
 </figure></p>
 
