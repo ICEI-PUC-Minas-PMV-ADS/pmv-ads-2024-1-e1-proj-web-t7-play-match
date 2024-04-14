@@ -28,7 +28,7 @@
 <p>O quadro kanban do grupo no GitHub está disponível no link: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/trello2.jpg"><strong>Trello</strong></a> e é apresentado, no estado atual, na figura abaixo:</p>
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/trello2.jpg">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/Trello-atualizada.jpeg">
     <figcaption>Figura 1 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 </figure> 
 
