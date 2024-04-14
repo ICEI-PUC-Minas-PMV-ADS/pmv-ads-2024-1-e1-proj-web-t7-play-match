@@ -53,12 +53,6 @@ Protótipo de alta fidelidade é uma representação interativa do produto mais 
   <figcaption>Protopico de alta fidelidade</figcaption>
 </figure>
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/file/VFvPmnAJoD9AUZqj33EeL4/Play-Match?type=design&fuid=1357494481960855370)
 
 
 
