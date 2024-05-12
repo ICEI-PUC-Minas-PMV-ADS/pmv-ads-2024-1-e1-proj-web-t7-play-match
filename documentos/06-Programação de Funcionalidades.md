@@ -53,19 +53,11 @@ Visualização de mensagens e notificações recebidas
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/c7be4d5f-c807-44a0-9d18-5a1127fff40a)
 
 
-
-
-[Adicione imagem da funcionalidade/tela]
-
-
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
-[RF-26] A aplicação deve permitir que o usuário acesse as mensagens e notificações recebidas no sistema.
+[RF] A aplicação deve permitir que o usuário acesse as mensagens e notificações recebidas no sistema.
 
 #### Artefatos da funcionalidade
-
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
 
 historico.html / style-historico.css 
 
