@@ -50,8 +50,8 @@ Eduardo Coutinho
 
 Visualização de mensagens e notificações recebidas
 
-![image](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/c7be4d5f-c807-44a0-9d18-5a1127fff40a)
-)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/c7be4d5f-c807-44a0-9d18-5a1127fff40a)
+
 
 
 
