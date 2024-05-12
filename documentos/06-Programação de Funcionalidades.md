@@ -50,7 +50,7 @@ Eduardo Coutinho
 
 Visualização de mensagens e notificações recebidas
 
-![image](blob:https://web.whatsapp.com/3a6db382-e341-4aa2-b66d-942f85bfb245)
+![image]()
 
 
 
