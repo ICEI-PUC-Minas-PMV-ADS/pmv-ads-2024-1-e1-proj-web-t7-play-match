@@ -1,4 +1,4 @@
-# Programação de Funcionalidades
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/6e05f727-c3a8-4f33-a8ec-21d4851bc116)# Programação de Funcionalidades
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
@@ -41,6 +41,46 @@ historico.html / style-historico.css
 Eduardo Coutinho
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+
+
+
+
+
+### Título da funcionalidade
+
+Visualização de mensagens e notificações recebidas
+
+![image](blob:https://web.whatsapp.com/3a6db382-e341-4aa2-b66d-942f85bfb245)
+
+
+
+[Adicione imagem da funcionalidade/tela]
+
+
+#### Requisito atendido
+
+[RF-X: adicione a descrição do requisito atendido]
+[RF-26] A aplicação deve permitir que o usuário acesse as mensagens e notificações recebidas no sistema.
+
+#### Artefatos da funcionalidade
+
+[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+
+historico.html / style-historico.css 
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+
+Samara Barros
 
 
 
