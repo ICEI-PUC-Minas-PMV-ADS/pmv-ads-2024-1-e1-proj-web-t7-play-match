@@ -1,0 +1,75 @@
+body {
+    background-image: url(lateral.png);
+    background-size: 50%;
+    background-position: left;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    border: 50px;
+    margin: 150px;
+    padding: 0;
+    background-color: white;
+}
+.menu-btn {
+    position: right;
+    top: 1px;
+    right: 1px;
+    width: 50px;
+    height: 50px;
+    background-image: url(menu-botton.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    
+}
+.btn {
+    text-align: right;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #7d71c0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(85, 41, 41, 0.1);
+}
+.btn_agendamentos, .btn_historico, .btn_editar_perfil {
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #5f5de9;
+}
+.welcome {
+    text-align: left;
+    font-size: 300%;
+    padding: 20px;
+    border: 300px;
+}
+.playmatch {
+    text-align: right;
+    font-size: 200%;
+}
+.imglateral {
+    max-width: 300px;
+    max-height: 800px;
+}
+.table {}
