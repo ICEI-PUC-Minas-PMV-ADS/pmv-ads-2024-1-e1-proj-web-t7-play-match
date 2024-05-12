@@ -1,4 +1,4 @@
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/6e05f727-c3a8-4f33-a8ec-21d4851bc116)# Programação de Funcionalidades
+# Programação de Funcionalidades
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
