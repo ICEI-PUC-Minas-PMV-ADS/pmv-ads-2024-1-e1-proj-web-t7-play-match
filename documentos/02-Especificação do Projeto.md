@@ -129,6 +129,8 @@
 | RF-23 | A aplicação deve permitir que o usuário filtre os tipos de quadra   | Alta |
 | RF-24 | A aplicação deve permitir que o usuário acesse os perfis de professores de modalidades esportivas | Alta   |
 | RF-25 | A aplicação deve permitir que o usuário acesse histórico e comprovantes de pagamentos | Alta |
+| RF-26 | A aplicação deve permitir que o usuário acesse histórico de utilização da plataforma | Média |
+
 
 **Prioridade: Alta / Média / Baixa. 
 
