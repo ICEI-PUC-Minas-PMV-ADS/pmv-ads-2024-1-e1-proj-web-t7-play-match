@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: auto;
+    height: auto;
+
+}
+
+
+body{
+   background-repeat: no-repeat;
+   background-image: url(quadra.jpg);
+   background-size: 100%;
+}
+.container {
+    background-color: aliceblue;
+    margin-left: 14%;
+    padding-top: 6rem;
+    padding-left: 10rem;
+    padding-bottom: 7rem;
+    background-size: 100%; 
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    box-sizing: content-box;
+    background-size: 100%;
+    
+
+
+}
+
+.importante{
+    display: auto;
+    text-align: center;
+    align-items: first baseline;
+
+    
+
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+.usuario{
+    font-size:25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration: bold;
+    padding-inline-start: 43%
+
+}
+
+.nave{
+    display: flow-root;   
+    padding-inline-start: 70%;
+    font-display: left;
+    align-items: last baseline;
+    margin-top: -19px;
+    
+
+}
+
+ul{
+    float: left;
+    display: flex;
+    padding-inline-start: 5%;
+}
+
+ul li{
+    list-style: none;
+    padding-left: 120%;
+}
+
+.nave a{
+padding-left: 8%;
+}
+
+
+.inicio{
+    display: flex;
+}
+
+.main {
+    display: flex;
+    align-content: center;
+    height: 100%;
+    width: 100%;
+    padding-top: 4rem;
+    
+}
+
+.notification{
+    background-color: rgb(171, 207, 231);
+    padding: 3%;
+    padding-left: 5%;
+    text-align: right;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    padding-bottom: 60px;
+
+}
+
+
+.notification p{
+    margin-bottom: 45px;
+    margin-top: 10px;
+    padding-left: 7%;
+    font-size:  16px;
+    text-align: left;
+    align-items: center;
+}
+
+.quadra{
+    font-size: 20px;
+    text-align: left;
+    display: list-item;
+    padding-left: 3%;
+}
+
+h2{
+    font-size: 24px;
+    padding-left: 10px;
+    font
+}
+
+.messages{
+    background-color: rgb(171, 207, 231);
+    padding: 3%;
+    padding-left: 5%;
+    text-align: left;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    padding-bottom: 66px;
+    margin-left: 3rem;
+    margin-right: 4rem;
+}
+
+
+.messages p{
+    margin-bottom: 30px;
+    margin-top: 12px;
+    padding-left: 7%;
+    font-size:  16px;
+    text-align: left;
+    align-items: center;
+}
+
+.Paulo{
+    font-size: 20px;
+    text-align: left;
+    display: list-item;
+    padding-left: 3%;
+    padding-top: 23px;
+
+    
+}
+
+h3{
+    font-size: 24px;
+    padding-left: 10px;
+    padding-top:
+}
