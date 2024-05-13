@@ -91,6 +91,7 @@ Tela de cadastro
 #### Requisito atendido
 
 <li> [RF-01] A aplicação deve permitir o cadastro de usuários</li>
+<li> [RF-03] A aplicação deve permitir cadastro de quadras</li>
 
 #### Artefatos da funcionalidade
 
