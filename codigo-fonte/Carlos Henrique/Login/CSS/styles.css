@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/assests/background.svg);
+    width: auto;
+    height: auto;
+    background-position: fixed;
+}
+
+.container {
+    width: 80%;
+    height: 80%;
+    margin: 80px;
+    padding: 20px 40px;
+    border-radius: 100px;
+    background-color: #fff;
+}
+
+.title h1 {
+    font-family: 'Odor Mean Chey', sans-serif;
+    font-size: 35px;
+    color: #1e4387;
+    line-height: 80px;
+}
+
+header p {
+    font-family: 'Outfit';
+    color: #656f7f;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+
+h3 {
+    font-size: 20px;
+    color: #1e4387;
+
+}
+
+.form input{
+    display: flex;
+    margin: 10px;
+}
+
+form input[type="email"], input[type="password"]{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 200px;
+    border-radius: 10px;
+    border-color: #1e4387;
+}
+
+.form input[type="submit"] {
+    background-color: #1e4387;
+    color: #fff;
+    font-family: 'Outfit';
+    padding: 3px 20px;
+    border: 3px solid #1e4387;
+    border-radius: 10px;
+}
+
+.forget-password  a{
+    font-size: 18px;
+    color: #8c939f;
+    font-family: 'Outfit';
+
+}
+
+hr {
+    color: #c6cbd4;
+}
+
+span {
+    font-size: 18px;
+    font-family: 'Outfit';
+    color: #00696d;
+    margin-right: 4px;
+
+}
+
+a img{
+    width: 20px;
+    height: 20px;
+    color: #1e4387;
+}
