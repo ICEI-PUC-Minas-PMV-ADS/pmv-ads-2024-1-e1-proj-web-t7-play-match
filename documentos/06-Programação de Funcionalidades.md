@@ -2,7 +2,6 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
 ### Título da funcionalidade
 
@@ -12,12 +11,10 @@ Hitórico de Utilização
 
 
 
-[Adicione imagem da funcionalidade/tela]
-
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+
 <li>[RF-26] A aplicação deve permitir que o usuário acesse histórico de utilização da plataforma</li>
 
 #### Artefatos da funcionalidade
@@ -34,8 +31,6 @@ historico.html
 style-historico.css
 
 
-[Caso exista estrutura de dados, adicione aqui]
-
 
 #### Instruções de acesso
 
@@ -45,9 +40,6 @@ style-historico.css
 #### Responsável
 
 Eduardo Coutinho
-
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
 
 
 
