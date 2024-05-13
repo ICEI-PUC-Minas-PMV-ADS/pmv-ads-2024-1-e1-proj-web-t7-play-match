@@ -28,6 +28,10 @@ historico.html / style-historico.css
 
 #### Estrutura de Dados
 
+historico.html
+style-historico.css
+
+
 [Caso exista estrutura de dados, adicione aqui]
 
 
