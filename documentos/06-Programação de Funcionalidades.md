@@ -192,6 +192,16 @@ Carlos Henrique
 
 Tela de login
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/Captura%20de%20tela%20de%202024-05-12%2023-52-34.png" alt="">
+
+###Requisito Atendido
+
+[RF-02] A aplicação deve permitir que os usuários cadastrados acessem suas contas
+
+
+### Aterfatos da funcionalidade
+
+index.html
 
 
 
