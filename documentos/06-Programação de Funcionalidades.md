@@ -111,6 +111,40 @@ Tela de cadastro
 
 Hana Karolina
 
+### Título da funcionalidade
+
+Tela de Quadras
+
+![Quadras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/64f9172f-5a8c-4eac-b162-ff6bf9308834)
+
+
+#### Requisito atendido
+
+<li> [RF-10] A aplicação deve possuir um sistema de filtro de pesquisa que permita os usuários encontrarem quadras.</li>
+<li> [RF-23] A aplicação deve permitir que o usuário filtre os tipos de quadra.</li> 
+<li> [RF-21] A aplicação deve permitir que o usuário filtre quadras por modalidades esportivas disponíveis.</li>
+<li> [RF-14] A aplicação deve permitir que o usuário localize por região.</li>
+
+#### Artefatos da funcionalidade
+
+<li> index_quadras.html</li>
+<li> quadras.css </li>
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+
+Hana Karolina
+
+<hr>
 
 
 
