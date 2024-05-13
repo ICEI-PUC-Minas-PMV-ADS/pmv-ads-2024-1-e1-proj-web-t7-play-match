@@ -152,6 +152,19 @@ Hana Karolina
 
 <hr>
 
+#### Instruções de acesso
+
+
+#### Responsável
+
+Carlos Henrique
+
+### Título da funcionalidade
+
+Tela Principal
+
+
+
 
 
 > **Links Úteis**:
