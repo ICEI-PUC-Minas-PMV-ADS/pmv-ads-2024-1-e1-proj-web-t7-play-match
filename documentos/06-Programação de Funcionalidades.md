@@ -18,13 +18,14 @@ Hitórico de Utilização
 #### Requisito atendido
 
 [RF-X: adicione a descrição do requisito atendido]
-[RF-26] A aplicação deve permitir que o usuário acesse histórico de utilização da plataforma
+<li>[RF-26] A aplicação deve permitir que o usuário acesse histórico de utilização da plataforma</li>
 
 #### Artefatos da funcionalidade
 
 [Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
 
-historico.html / style-historico.css
+<li>historico.html</li>
+<li>style-historico.css</li>
 
 #### Estrutura de Dados
 
