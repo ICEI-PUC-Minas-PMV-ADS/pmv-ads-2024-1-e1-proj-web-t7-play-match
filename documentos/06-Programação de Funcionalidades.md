@@ -123,7 +123,7 @@ Tela de Quadras
 #### Requisito atendido
 
 <li> [RF-04] A aplicação deve permitir acesso aos quadros de horários das quadras.</li>
-<li> [RF-08] A aplicação deve fornecer informações sobre a disponibilidade das quadras que gravam partidas.</li>>
+<li> [RF-08] A aplicação deve fornecer informações sobre a disponibilidade das quadras que gravam partidas.</li>
 <li> [RF-10] A aplicação deve possuir um sistema de filtro de pesquisa que permita os usuários encontrarem quadras.</li>
 <li> [RF-23] A aplicação deve permitir que o usuário filtre os tipos de quadra.</li> 
 <li> [RF-21] A aplicação deve permitir que o usuário filtre quadras por modalidades esportivas disponíveis.</li>
