@@ -94,8 +94,8 @@ Tela de cadastro
 
 #### Artefatos da funcionalidade
 
-● index_cadastro.html
-● cadastro.css 
+<li> index_cadastro.html </li>
+<li> cadastro.css </li>
 
 #### Estrutura de Dados
 
