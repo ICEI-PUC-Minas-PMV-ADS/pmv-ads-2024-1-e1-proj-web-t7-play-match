@@ -155,7 +155,31 @@ Carlos Henrique
 
 Tela Principal
 
+Tela Principal
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/p1.png
+" alt="">
+<img src=""https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/p2.png alt="">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/blob/main/documentos/img/p3.png" alt="">
+
+
+#### Requisito atendido
+
+
+Tela principal:
+
+
+<li>[RF-13] A aplicação deve oferecer funcionalidade de pesquisa de interesses dos usuários permitindo que eles se encontrem com mais facilidade</li>
+<li>[RF-15] A aplicação deve permitir que o usuário encontre professores de modalidades esportivas</li>
+[RF-15] A aplicação deve permitir que o usuário encontre professores de modalidades esportivas
+[RF-23] A aplicação deve permitir que o usuário filtre os tipos de quadra
+[RF-21] A aplicação deve permitir que o usuário filtre quadras por modalidades esportivas disponíveis
+[RF-22] A aplicação deve recomendar quadras de acordo com a(s) modalidade(s) esportiva(s) selecionadas pelo usuário
+
+#### Artefatos da funcionalidade
+
+
+<li>Product.html</li>
 
 
 
