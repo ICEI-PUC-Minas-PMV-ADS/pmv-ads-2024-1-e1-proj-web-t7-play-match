@@ -28,7 +28,7 @@ historico.html / style-historico.css
 
 #### Estrutura de Dados
 
-[historico.html](codigo-fonte/Eduardo Coutinho/historico.html)
+historico.html
 
 style-historico.css
 
