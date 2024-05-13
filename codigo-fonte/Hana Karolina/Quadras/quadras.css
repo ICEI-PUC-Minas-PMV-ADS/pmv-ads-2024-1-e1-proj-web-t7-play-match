@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 1rem 2rem;
+    height: auto;
+    border-radius: 1.5rem;
+    background-color: white;
+    box-shadow: 5px 5px #ccc;
+}
+
+body{
+    background-image: url(./image\ 11.svg);
+}
+
+.cabeçalho1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.icone1 img{
+    text-align: left;
+    width: 2rem;
+    height: 2rem;
+    margin-left: 3rem;
+    margin-top: 1.5rem;
+}
+
+.titulo1{
+    text-align: center;
+}
+
+.titulo1 h1{
+    font-family: Odor Mean Chey;
+    color: #1E4387;
+}
+
+.icones2 img{
+     text-align: end;
+     width: 2rem;
+     height: 2rem;
+     margin-right: 2rem;
+     margin-top: 1.5rem;
+}
+
+.cones2 .favorite{
+    margin-right: 3rem;
+}
+
+.futebol{
+    display: flex;
+    justify-content: space-between;
+}
+
+.futebol h1{
+    font-family: Odor Mean Chey;
+    color: #1E4387;
+    margin-left: 3rem;
+    font-style: normal;
+}
+
+.futebol input{
+    width: 15rem;
+    height: 2rem;
+    border-radius: 20px;
+    margin-right: 2rem;
+    margin-top: 2rem;
+    border-color: #D3DDED;
+    background-color: #D3DDED;
+    text-align: end;
+}
+
+.corpo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabeçalho2{
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+}
+
+.cabeçalho2 span{
+    font-size: 18px;
+    font-family: Outfit;
+    color: #1E4387;
+    margin-right: 90px;
+}
+
+.cabeçalho2 hr{
+    width: 77%;
+    margin-left: 0;
+}
+
+.cabeçalho2 .avaliacao{
+    display: flex;
+}
+
+.cabeçalho2 .avaliacao img{
+    width: 7rem;
+    height: 1rem;
+}
+
+.cabeçalho2 .avaliacao span{
+    font-size: 13px;
+    text-align: end;
+}
+
+.cabeçalho2 .quadra{
+    width: 18rem;
+    height: 10rem;
+    margin-top: 1rem;
+}
