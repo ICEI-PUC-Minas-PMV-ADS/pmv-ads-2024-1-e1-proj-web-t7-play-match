@@ -90,7 +90,7 @@ Tela de cadastro
 
 #### Requisito atendido
 
-[RF-01] A aplicação deve permitir o cadastro de usuários
+<li> [RF-01] A aplicação deve permitir o cadastro de usuários</li>
 
 #### Artefatos da funcionalidade
 
