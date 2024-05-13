@@ -81,6 +81,37 @@ historico.html / style-historico.css
 Samara Barros
 
 
+### Título da funcionalidade
+
+Tela de cadastro
+
+![Tela de cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/502d3105-f235-4d48-bffb-2cf392108a82)
+
+
+#### Requisito atendido
+
+[RF-01] A aplicação deve permitir o cadastro de usuários
+
+#### Artefatos da funcionalidade
+
+● index_cadastro.html
+● cadastro.css 
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+
+Hana Karolina
+
+
 
 
 > **Links Úteis**:
