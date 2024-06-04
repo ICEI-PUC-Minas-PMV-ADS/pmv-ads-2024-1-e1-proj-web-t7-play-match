@@ -28,7 +28,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de Teste    | CT-001 - Botão de menu lateral |
 |:---|:---|
-| Requisitos Associados | RF-02 e RF-25 |
+| Requisitos Associados | RF-02 |
 | Objetivo do Teste | Testar funcionalidade do botão de menu lateral |
 | Passos | Passo único: clicar no botão superior esquerdo |
 | Critérios de êxito | Abrir corretamente o menu lateral  |
@@ -37,6 +37,14 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 ![Teste de Funcionalidade Botão Menu lateral 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/3b607f62-ab6e-48b9-87fa-0d073f862316) | Tela 2
 
 
-
+|Caso de Teste    | CT-002 - Função de histórico de utilização |
+|:---|:---|
+| Requisitos Associados | RF-26 |
+| Objetivo do Teste | Função de histórico de utilização |
+| Passos | Passo 1 – inserir os dados via console do navegador; Passo 2 – atualizar a página |
+| Critérios de êxito | Aparecer corretamente os dados que foram inseridos no console do navegador  |
+| Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva Junior |
+![Teste de funcionalidade - Histórico 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/25eb2e26-ebf8-4b72-a5bf-806a53d583f0) | Tela 1 com o console do navegador aberto
+![Teste de Funcionalidade - Historico 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/84ac4533-f324-4204-9fca-4816f28cbcd4) | Tela 2 com as informações inseridas aparecendo corretamente na página
 
  
