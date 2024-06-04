@@ -1,75 +1,93 @@
 body {
-    background-image: url(lateral.png);
-    background-size: 50%;
-    background-position: left;
-    background-repeat: no-repeat;
     font-family: Arial, sans-serif;
-    border: 50px;
-    margin: 150px;
+    margin: 0;
     padding: 0;
-    background-color: white;
-}
-.menu-btn {
-    position: right;
-    top: 1px;
-    right: 1px;
-    width: 50px;
-    height: 50px;
-    background-image: url(menu-botton.png);
-    background-size: cover;
+    background-image: url('lateral.png');
     background-repeat: no-repeat;
-    border: none;
+    background-position: left top;
+    background-size: 50%;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #084b72;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.menu-btn {
     cursor: pointer;
-    
+    font-size: 24px;
 }
-.btn {
-    text-align: right;
-    max-width: 800px;
-    margin: 20px auto;
-    background-color: #7d71c0;
+
+h1 {
+    margin: 0;
+}
+
+.menu {
+    display: none;
+    background-color: #2487a5;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 200px;
+    border: 1px solid #24a3b9;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu ul li {
+    border-bottom: 1px solid #555;
+}
+
+.menu ul li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.menu ul li a:hover {
+    background-color: #555;
+}
+
+main {
     padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(85, 41, 41, 0.1);
+    display: flex;
+    justify-content: center;
 }
-.btn_agendamentos, .btn_historico, .btn_editar_perfil {
-    text-align: center;
-}
+
 .container {
     max-width: 800px;
-    margin: 20px auto;
-    background-color: #fff;
+    width: 100%;
+    background-color: #40789e;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-h1 {
-    text-align: center;
-}
+
 table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
 }
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
 th, td {
     padding: 10px;
     text-align: left;
-    border-bottom: 1px solid #ddd;
 }
+
 th {
-    background-color: #5f5de9;
+    background-color: #f4f4f4;
 }
-.welcome {
-    text-align: left;
-    font-size: 300%;
-    padding: 20px;
-    border: 300px;
-}
-.playmatch {
-    text-align: right;
-    font-size: 200%;
-}
-.imglateral {
-    max-width: 300px;
-    max-height: 800px;
-}
-.table {}
