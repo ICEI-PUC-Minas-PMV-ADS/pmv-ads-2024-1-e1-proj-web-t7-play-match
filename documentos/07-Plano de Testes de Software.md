@@ -33,8 +33,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos | Passo único: clicar no botão superior esquerdo |
 | Critérios de êxito | Abrir corretamente o menu lateral  |
 | Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva Junior |
-![Teste de Funcionalidade Botão Menu lateral 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/e71d4e16-c7ad-4f7b-8b5a-cd9ce0cbacd0)
-![Teste de Funcionalidade Botão Menu lateral 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/3b607f62-ab6e-48b9-87fa-0d073f862316)
+![Teste de Funcionalidade Botão Menu lateral 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/e71d4e16-c7ad-4f7b-8b5a-cd9ce0cbacd0) | Tela 1
+![Teste de Funcionalidade Botão Menu lateral 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/3b607f62-ab6e-48b9-87fa-0d073f862316) | Tela 2
 
 
 
