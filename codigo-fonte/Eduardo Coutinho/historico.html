@@ -4,60 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Histórico de Utilização</title>
- <link rel="stylesheet" href="style-historico.css"></link>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
 </head>
 <body>
-    <div class="menu-btn"></div>
-    <div class="welcome">Olá, Ana.</div><div class="playmatch">PlayMatch</div>  
-    <div class="container">
-        <div class="btn">
-            <a href="#" class="btn_agendamentos">Meus agendamentos</a>
-            <a href="#" class="btn_historico">Histórico</a>
-            <a href="#" class="btn_editar_perfil">Editar perfil</a>
-        <h1>Histórico de Utilização de Espaço Esportivo</h1>
-        <table class="table">
-            <thead>
-                <tr>
-                    <th class="data">Data</th>
-                    <th class="local">Local</th>
-                    <th class="periodo">Período</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- Adicionar as entradas do histórico -->
-                <tr>
-                    <td>01/05/2024</td>
-                    <td>Quadra A</td>
-                    <td>Manhã</td>
-                </tr>
-                <tr>
-                    <td>02/05/2024</td>
-                    <td>Quadra B</td>
-                    <td>Noite</td>
-                </tr>
-                <tr>
-                    <td>03/05/2024</td>
-                    <td>Quadra C</td>
-                    <td>Tarde</td>
-                </tr>
-                <tr>
-                    <td>04/05/2024</td>
-                    <td>Quadra B</td>
-                    <td>Noite</td>
-                </tr>
-                <tr>
-                    <td>05/05/2024</td>
-                    <td>Quadra A</td>
-                    <td>Tarde</td>
-                </tr>
-                <tr>
-                    <td>07/05/2024</td>
-                    <td>Quadra C</td>
-                    <td>Noite</td>
-                </tr>
-                <!-- Adicionar mais linhas conforme necessário -->
-            </tbody>
-        </table>
-    </div>
+    <header>
+        <div class="menu-btn" id="menuBtn">☰</div>
+        <h1>Play Match</h1>
+    </header>
+    <nav class="menu" id="menu">
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Perfil</a></li>
+            <li><a href="#">Procurar Quadras</a></li>
+            <li><a href="#">Sair</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div class="container">
+            <h2>Histórico de Utilização</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Data</th>
+                        <th>Nome da Quadra</th>
+                        <th>Tipo de Quadra</th>
+                        <th>Horário</th>
+                    </tr>
+                </thead>
+                <tbody id="historyTable">
+                    <!-- Tabela será preenchida automaticamente com dados do localStorage -->
+                </tbody>
+            </table>
+        </div>
+    </main>
+    
 </body>
 </html>
