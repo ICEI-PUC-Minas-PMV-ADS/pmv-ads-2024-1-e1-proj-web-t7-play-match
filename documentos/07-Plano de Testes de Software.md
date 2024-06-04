@@ -1,4 +1,5 @@
 # Plano de Testes de Software
+TEMPLATE
 
 [Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
 
@@ -18,3 +19,25 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
+# Plano de Testes de Software
+
+[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
+
+Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
+
+|Caso de Teste    | CT-001 - Botão de menu lateral |
+|:---|:---|
+| Requisitos Associados | RF-02 e RF-25 |
+| Objetivo do Teste | Testar funcionalidade do botão de menu lateral |
+| Passos | Passo único: clicar no botão superior esquerdo |
+| Critérios de êxito | Abrir corretamente o menu lateral  |
+| Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva Junior |
+![Teste de Funcionalidade Botão Menu lateral 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/e71d4e16-c7ad-4f7b-8b5a-cd9ce0cbacd0)
+
+![Teste de Funcionalidade Botão Menu lateral 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/3b607f62-ab6e-48b9-87fa-0d073f862316)
+
+
+
+
+ 
