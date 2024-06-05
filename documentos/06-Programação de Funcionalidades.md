@@ -23,7 +23,8 @@ Hitórico de Utilização
 [Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
 
 <li>historico.html</li>
-<li>style-historico.css</li>
+<li>historico_style.css</li>
+<li>historico_script.js</li>
 
 #### Estrutura de Dados
 
