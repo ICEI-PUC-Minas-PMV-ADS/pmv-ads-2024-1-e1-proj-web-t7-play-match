@@ -7,7 +7,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 Hitórico de Utilização
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/4217203f-d2b9-4ce3-86c0-ca1f6b72c56b)
+![Teste de Funcionalidade Botão Menu lateral 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/417f3778-2c56-4380-8cd8-f850fec8c8b5)
+
 
 
 
