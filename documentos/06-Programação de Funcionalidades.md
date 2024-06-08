@@ -45,6 +45,49 @@ historico_script.js
 Eduardo Coutinho
 
 
+### Título da funcionalidade
+
+Hitórico de Utilização
+
+![Teste de funcionalidade - Perfil 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/e1c9e646-73ce-4261-989a-f5832930601b)
+
+
+
+
+
+
+#### Requisito atendido
+
+
+<li>Requisito não adicionado ainda</li>
+
+#### Artefatos da funcionalidade
+
+[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+
+<li>perfil.html</li>
+<li>perfil_style.css</li>
+<li>perfil_script.js</li>
+
+#### Estrutura de Dados
+
+perfil.html
+
+perfil_style.css
+
+perfil_script.js
+
+
+#### Instruções de acesso
+
+Ao clicar no botão de menu lateral algumas opções aparecerão. Clique em Perfil para abrir essa página.
+
+
+#### Responsável
+
+Eduardo Coutinho
+
+
 
 
 ### Título da funcionalidade
