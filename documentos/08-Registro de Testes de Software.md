@@ -29,6 +29,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![Teste de funcionalidade - Histórico 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/3b15aa49-af56-40d1-aa9d-f9350cbea518) | Tela 1 - Página aberta sem dados e nada inserido no console do navegador
 ![Teste de Funcionalidade - Historico 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/514b079a-3752-4fe3-b028-6e0e0b3ff22c) | Tela 2 - Página aberta com os dados inseridos no console do navegador aparecendo corretamente na página
 
+|Caso de Teste    | CT-003 - Função de alterar senha |
+|:---|:---|
+| Resultados obtidos | Apareceu a mensagem de erro: "Senha antiga incorreta."  |
+| Responsável pela execução do caso de Teste | Eduardo Coutinho |
+![Teste de funcionalidade - Perfil 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/2d28e21b-4424-4b6d-8134-45f55e01be73) | Tela 1 - Página aberta com os dados do perfil do usuário
+![Teste de funcionalidade - Perfil 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/1bdf070f-c9e1-443b-9fa5-03585b7136ca) | Tela 2 - Ao inserir um senha incorreta a mensagem de erro aparece: "Senha Antiga Incorreta."
+
 
 
 
