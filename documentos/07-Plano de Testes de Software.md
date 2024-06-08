@@ -30,7 +30,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-02 |
 | Objetivo do Teste | Testar funcionalidade do botão de menu lateral |
-| Passos | Passo único: clicar no botão superior esquerdo |
+| Passos | Passo único: Clicar no botão superior esquerdo |
 | Critérios de êxito | Abrir corretamente o menu lateral  |
 | Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva Junior |
 
@@ -40,7 +40,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-26 |
 | Objetivo do Teste | Função de histórico de utilização |
-| Passos | Passo 1 – inserir os dados via console do navegador; Passo 2 – atualizar a página |
+| Passos | Passo 1 – Inserir os dados via console do navegador; Passo 2 – atualizar a página |
 | Critérios de êxito | Aparecer corretamente os dados que foram inseridos no console do navegador  |
 | Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva Junior |
 
@@ -49,6 +49,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-X |
 | Objetivo do Teste | Mensagem de erro ao tentar atualizar a senha |
-| Passos | Passo 1 - Inseri dados no console do navagador para preencher o perfil de usuário. Passo 2 - Atualizar a página para que os dados apareçam preenchidos corretamente.Passo 3 - Colocar a senha incorreta Passo 4 - Clicar em Salvar Perfil  |
+| Passos | Passo 1 - Inserir dados no console do navagador para preencher o perfil de usuário. Passo 2 - Atualizar a página para que os dados apareçam preenchidos corretamente.Passo 3 - Colocar a senha incorreta Passo 4 - Clicar em Salvar Perfil  |
 | Critérios de êxito | Deve aparecer a mensagem: Senha antiga incorreta  |
 | Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva |
