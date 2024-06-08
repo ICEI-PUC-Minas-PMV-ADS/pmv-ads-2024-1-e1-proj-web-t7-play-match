@@ -30,8 +30,9 @@ Hitórico de Utilização
 
 historico.html
 
-style-historico.css
+historico_style.css
 
+historico_script.js
 
 
 #### Instruções de acesso
