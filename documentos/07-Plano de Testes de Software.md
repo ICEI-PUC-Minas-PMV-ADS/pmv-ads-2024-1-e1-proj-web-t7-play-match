@@ -45,10 +45,19 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva Junior |
 
 
-|Caso de Teste    | CT-003 - Função de Atualizar Perfil |
+|Caso de Teste    | CT-003 - Função de Atualizar Senha |
 |:---|:---|
 | Requisitos Associados | RF-X |
 | Objetivo do Teste | Mensagem de erro ao tentar atualizar a senha |
 | Passos | Passo 1 - Inserir dados no console do navagador para preencher o perfil de usuário. Passo 2 - Atualizar a página para que os dados apareçam preenchidos corretamente.Passo 3 - Colocar a senha incorreta Passo 4 - Clicar em Salvar Perfil  |
 | Critérios de êxito | Deve aparecer a mensagem: Senha antiga incorreta  |
+| Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva |
+
+
+|Caso de Teste    | CT-004 - Função de Atualizar Senha |
+|:---|:---|
+| Requisitos Associados | RF-X |
+| Objetivo do Teste | Mensagem êxito ao tentar atualizar a senha |
+| Passos | Passo 1 - Inserir dados no console do navagador para preencher o perfil de usuário. Passo 2 - Atualizar a página para que os dados apareçam preenchidos corretamente.Passo 3 - Colocar a senha correta, uma senha nova e confirmar a senha nova Passo 4 - Clicar em Salvar Perfil  |
+| Critérios de êxito | Deve aparecer a mensagem: Perfil atualizado com sucesso.  |
 | Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva |
