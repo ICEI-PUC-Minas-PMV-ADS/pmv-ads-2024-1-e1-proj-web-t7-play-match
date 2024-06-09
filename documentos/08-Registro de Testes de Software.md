@@ -74,3 +74,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Responsável pela execução do caso de Teste | Hana Karolina Neves Siqueira |
 ![cadastro em branco](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/589f8dcb-fa00-4d10-b2ab-073059cce102) | Tela 1 - Página de cadastro aberta em branco
 ![Cadastro preenchida](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/de514668-2aea-4410-af81-d712509b9f77) | Tela 2 - Página de cadastro com os dados preenchidos
+
+|Caso de Teste    | CT-009 - Página de quadras cadastradas |
+|:---|:---|
+| Resultados obtidos | Todas as informações apareceram corretamente. |
+| Responsável pela execução do caso de Teste | Hana Karolina Neves Siqueira |
+![Pagina de quadras cadastradas 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/8c941d95-1815-4714-a376-4877d7252b85) | Tela 1 - Página de quadras cadastradas sem o novo cadastro
+![Pagina quadras cadastradas 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/fcfbc0d7-1d5e-4092-974c-974e45305439) | Tela 2 - Página de quadras cadastradas com o novo cadastro
