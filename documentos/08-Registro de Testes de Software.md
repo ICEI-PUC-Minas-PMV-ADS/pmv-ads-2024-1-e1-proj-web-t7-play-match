@@ -81,3 +81,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Responsável pela execução do caso de Teste | Hana Karolina Neves Siqueira |
 ![Pagina de quadras cadastradas 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/8c941d95-1815-4714-a376-4877d7252b85) | Tela 1 - Página de quadras cadastradas sem o novo cadastro
 ![Pagina quadras cadastradas 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/fcfbc0d7-1d5e-4092-974c-974e45305439) | Tela 2 - Página de quadras cadastradas com o novo cadastro
+
+
+|Caso de Teste    | CT-010- Login na página |
+|:---|:---|
+| Resultados obtidos | O usuário caso tenha cadastrado irá receber uma mensagem que O login foi realizado com sucesso. |
+| Responsável pela execução do caso de Teste | Carlos Henrique |
+![Pagina de quadras cadastradas 1]file:///home/carloshenriquee/Imagens/imagens/logincomsucesso.jpeg
+() | Tela 1 - Página de quadras cadastradas sem o novo cadastro
+![Pagina quadras cadastradas 2](file:///home/carloshenriquee/Imagens/imagens/logincomsucesso.jpeg
+) | Tela 2 - Página de quadras cadastradas com o novo cadastro
