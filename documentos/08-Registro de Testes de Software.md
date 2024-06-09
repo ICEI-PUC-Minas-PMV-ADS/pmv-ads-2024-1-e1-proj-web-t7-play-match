@@ -51,3 +51,19 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![Teste de funcionalidade - Perfil 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/163422824/81c7750e-5ab4-430a-9b2c-020b98de2623) | Tela 2 - Ao inserir uma confirmação de senha incorreta a mensagem de erro aparece: "A confirmação de senha não corresponde à nova senha."
 
 
+
+
+|Caso de Teste    | CT-001 - Funcionalidade do Botão de Menu Lateral |
+|:---|:---|
+| Resultados obtidos | O botão de menu foi corretamente acionado após o clique.|
+| Responsável pela execução do caso de Teste | Samara Lorena da Silva Barros |
+![Teste de Funcionalidade Botão Menu 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/ed3e68c6-b313-44f9-ad4b-da1829ee4689) | Tela 1 - Página de notificações e mensagens aberta
+![Teste de Funcionalidade Botão Menu 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/8c0b5801-e16f-4c5a-a773-9cfe45f45400) | Tela 2 - Menu lateral aberto após clicar no botão
+
+
+|Caso de Teste    | CT-002 - Função Painel de Notificações e Mensagens |
+|:---|:---|
+| Resultados obtidos | Todas as informações apareceram corretamente. |
+| Responsável pela execução do caso de Teste | Samara Lorena da Silva Barros |
+![Teste de Funcionalidade Mensagens e Notificações 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/06a4f7fc-7eb7-49c9-9109-9c4b17fb19e6) | Tela 1 - Página de notificações e mensagens aberta
+![Teste de Funcionalidade Mensagens e Notificações 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/d96d2d4b-f2f9-4021-87b8-9e4315165151) | Tela 2 - Informações aparecendo nos campos corretos
