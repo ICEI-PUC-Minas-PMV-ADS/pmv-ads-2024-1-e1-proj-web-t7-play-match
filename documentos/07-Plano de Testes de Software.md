@@ -93,7 +93,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-03 |
 | Objetivo do Teste | Função de cadastro de quadras |
-| Passos | Passo 1: selecionar o botão da opção quadra. Passo 2: Inserir os dados da quadra. Passo 3: Carregar os dados do localstorage. |
+| Passos | Passo 1: selecionar o botão da opção quadra. Passo 2: Inserir os dados da quadra. Passo 3: Guardar os dados inseridos |
 | Critérios de êxito | Deverá guardar os dados inseridos para serem carregados na próxima etapa.|
 | Responsável pela elaborar do caso de Teste | Hana Karolina Neves Siqueira |
 
