@@ -106,3 +106,11 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Hana Karolina Neves Siqueira |
 
 
+|Caso de Teste    | CT-010 - Página de quadras |
+|:---|:---|
+| Requisitos Associados | RF-02 |
+| Objetivo do Teste | Realizar o login na página com usuário e senha|
+| Passos | Passo 1: Preencher os dados,  solicitados. | Passo 2: Clicar no botão de login | Passo 3: Realizar o login, caso tenha feito o cadastro|
+| Critérios de êxito | O usuário deverá conseguir logar se tiver feito o cadastro.| 
+| Responsável pela elaborar do caso de Teste | Carlos Henrique |
+
