@@ -72,5 +72,5 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |:---|:---|
 | Resultados obtidos | Todas as informações apareceram corretamente. |
 | Responsável pela execução do caso de Teste | Hana Karolina Neves Siqueira |
-[Teste de Funcional Página de cadastro 1](![cadastro em branco](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/589f8dcb-fa00-4d10-b2ab-073059cce102) | Tela 1 - Página de cadastro aberta em branco
-[Teste de Funcionalidade Dados de cadastro da quadra preenchidos](![Cadastro preenchida](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/04d7f7e8-2454-4906-b5ab-8b8f3c3fbd8c) | Tela 2 - Página de cadastro com os dados preenchidos
+![cadastro em branco](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/589f8dcb-fa00-4d10-b2ab-073059cce102) | Tela 1 - Página de cadastro aberta em branco
+[Cadastro preenchida](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/04d7f7e8-2454-4906-b5ab-8b8f3c3fbd8c) | Tela 2 - Página de cadastro com os dados preenchidos
