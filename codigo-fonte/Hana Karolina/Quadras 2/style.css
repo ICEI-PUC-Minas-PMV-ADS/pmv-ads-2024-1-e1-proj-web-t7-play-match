@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 1rem 2rem;
+    height: auto;
+    border-radius: 1.5rem;
+    background-color: white;
+    box-shadow: 5px 5px #ccc;
+}
+
+body{
+    background-image: url(./image\ 11.svg);
+}
+
+.cabeçalho1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.icone1 img{
+    text-align: left;
+    width: 2rem;
+    height: 2rem;
+    margin-left: 3rem;
+    margin-top: 1.5rem;
+}
+
+.titulo1{
+    text-align: center;
+}
+
+.titulo1 h1{
+    font-family: Odor Mean Chey;
+    color: #1E4387;
+}
+
+.icones2 img{
+     text-align: end;
+     width: 2rem;
+     height: 2rem;
+     margin-right: 2rem;
+     margin-top: 1.5rem;
+}
+
+.cones2 .favorite{
+    margin-right: 3rem;
+}
+
+.futebol{
+    display: flex;
+    justify-content: space-between;
+}
+
+.futebol h1{
+    font-family: Odor Mean Chey;
+    color: #1E4387;
+    margin-left: 3rem;
+    font-style: normal;
+}
+
+.futebol input{
+    width: 15rem;
+    height: 2rem;
+    border-radius: 20px;
+    margin-right: 2rem;
+    margin-top: 2rem;
+    border-color: #D3DDED;
+    background-color: #D3DDED;
+    text-align: end;
+}
+
+#corpo{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.cabeçalho2 {
+    box-sizing: border-box;
+    width: calc(33.333% - 20px); /* 3 cards per row with some spacing */
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.cabeçalho2 img {
+    max-width: 100%;
+    height: auto;
+}
+
+.avaliacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.avaliacao img {
+    width: 30px; /* Example size, adjust as needed */
+}
+
+.quadra {
+    margin-top: 10px;
+}
+
+#corpo {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.cabeçalho2 {
+    border: 1px solid #ccc;
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cabeçalho2 img {
+    display: block;
+    max-width: 100%;
+}
+
+.avaliacao {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.avaliacao img {
+    margin-right: 10px;
+}
+
+.quadra {
+    display: block;
+    margin-top: 10px;
+}
