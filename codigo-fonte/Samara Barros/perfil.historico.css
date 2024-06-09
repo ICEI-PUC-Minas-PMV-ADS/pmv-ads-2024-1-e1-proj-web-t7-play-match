@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-image: url(quadra.jpg);
+    background-size: cover;
+}
+
+.container {
+    background-color: aliceblue;
+    margin-left: 10%;
+    padding: 3rem;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    box-sizing: all;
+    margin-bottom: -2px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #084b72;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  .menu-btn {
+    cursor: pointer;
+    font-size: 24px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .menu {
+    display: none;
+    background-color: #2487a5;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 200px;
+    border: 1px solid #24a3b9;
+  }
+  
+  .menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu ul li {
+    border-bottom: 1px solid #555;
+  }
+  
+  .menu ul li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  
+  .menu ul li a:hover {
+    background-color: #555;
+  }
+.main {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 1rem;
+    size-adjust: center;
+}
+
+.notification, .messages {
+    background-color: rgb(171, 207, 231);
+    padding: 3%;
+    border-radius: 70px;
+    flex: 1;
+    margin: 1rem;
+    min-height: 750px;
+    padding-top: 5%;
+}
+
+.notification {
+    text-align: left;
+    padding-top: 2rem;
+}
+
+.messages {
+    text-align: left;
+    padding-top: 2rem;
+}
+
+.notification p, .messages p {
+    margin: 30px;
+    font-size: 16px;
+    padding-top: 0%;
+}
+
+.quadra, .Paulo {
+    font-size: 20px;
+    display: list-item;
+    padding-left: 6%;
+    padding-top: 4%;
+}
+
+h2, h3 {
+    font-size: 24px;
+    padding-left: 10px;
+}
