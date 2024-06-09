@@ -73,7 +73,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
-|Caso de Teste    | CT-001 - Botão de menu lateral |
+|Caso de Teste    | CT-006 - Botão de menu lateral |
 |:---|:---|
 | Requisitos Associados | RF-02 |
 | Objetivo do Teste | Testar funcionalidade do botão de menu lateral |
@@ -81,12 +81,28 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | Abrir corretamente o menu lateral  |
 | Responsável pela elaborar do caso de Teste | Samara Lorena da Silva Barros |
 
-|Caso de Teste    | CT-002 - Menu de notificações e mensagens |
+|Caso de Teste    | CT-007 - Menu de notificações e mensagens |
 |:---|:---|
 | Requisitos Associados | RF-20 |
 | Objetivo do Teste | Função de chegada de mensagens e notificações |
 | Passos | Passo 1: Inserir dados manualmente no console de navegador. Passo 2: Gerar os dados fornecidos pelo localstorage. Passo 3: Carregar os dados do localstorage. |
 | Critérios de êxito | Deverá aparecer os dados inseridos na etapa anterior.|
 | Responsável pela elaborar do caso de Teste | Samara Lorena da Silva Barros |
+
+|Caso de Teste    | CT-008 - Cadastro de quadras e pessoas |
+|:---|:---|
+| Requisitos Associados | RF-03 |
+| Objetivo do Teste | Função de cadastro de quadras |
+| Passos | Passo 1: selecionar o botão da opção quadra. Passo 2: Inserir os dados da quadra. Passo 3: Carregar os dados do localstorage. |
+| Critérios de êxito | Deverá guardar os dados inseridos para serem carregados na próxima etapa.|
+| Responsável pela elaborar do caso de Teste | Hana Karolina Neves Siqueira |
+
+|Caso de Teste    | CT-008 - Página de quadras |
+|:---|:---|
+| Requisitos Associados | RF-04, RF-09, RF-10 |
+| Objetivo do Teste | Localizar quadras |
+| Passos | Passo 1: A quadra cadastrada aparecerá na página principal. Passo 2: Utilizar o filtro de busca para localizar a quadra. |
+| Critérios de êxito | Deverá carregar os dados inseridos no passo anterior.|
+| Responsável pela elaborar do caso de Teste | Hana Karolina Neves Siqueira |
 
 
