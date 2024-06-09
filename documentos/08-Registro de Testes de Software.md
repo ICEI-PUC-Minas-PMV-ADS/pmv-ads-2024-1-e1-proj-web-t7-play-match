@@ -53,7 +53,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 
 
-|Caso de Teste    | CT-001 - Funcionalidade do Botão de Menu Lateral |
+|Caso de Teste    | CT-006 - Funcionalidade do Botão de Menu Lateral |
 |:---|:---|
 | Resultados obtidos | O botão de menu foi corretamente acionado após o clique.|
 | Responsável pela execução do caso de Teste | Samara Lorena da Silva Barros |
@@ -61,9 +61,18 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![Teste de Funcionalidade Botão Menu 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/8c0b5801-e16f-4c5a-a773-9cfe45f45400) | Tela 2 - Menu lateral aberto após clicar no botão
 
 
-|Caso de Teste    | CT-002 - Função Painel de Notificações e Mensagens |
+|Caso de Teste    | CT-007 - Função Painel de Notificações e Mensagens |
 |:---|:---|
 | Resultados obtidos | Todas as informações apareceram corretamente. |
 | Responsável pela execução do caso de Teste | Samara Lorena da Silva Barros |
 ![Teste de Funcionalidade Mensagens e Notificações 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/06a4f7fc-7eb7-49c9-9109-9c4b17fb19e6) | Tela 1 - Página de notificações e mensagens aberta
 ![Teste de Funcionalidade Mensagens e Notificações 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/166562442/d96d2d4b-f2f9-4021-87b8-9e4315165151) | Tela 2 - Informações aparecendo nos campos corretos
+
+|Caso de Teste    | CT-008 - Cadastro de quadras |
+|:---|:---|
+| Resultados obtidos | Todas as informações apareceram corretamente. |
+| Responsável pela execução do caso de Teste | Hana Karolina Neves Siqueira |
+![Teste de Funcional Página de cadastro 1](![cadastro em branco](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/589f8dcb-fa00-4d10-b2ab-073059cce102)
+) | Tela 1 - Página de cadastro aberta em branco
+![Teste de Funcionalidade Dados de cadastro da quadra preenchidos](![Cadastro preenchida](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/04d7f7e8-2454-4906-b5ab-8b8f3c3fbd8c)
+) | Tela 2 - Página de cadastro com os dados preenchidos
