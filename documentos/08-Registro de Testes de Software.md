@@ -87,6 +87,5 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |:---|:---|
 | Resultados obtidos | O usuário caso tenha cadastrado irá receber uma mensagem que O login foi realizado com sucesso. |
 | Responsável pela execução do caso de Teste | Carlos Henrique |
-![Pagina de quadras cadastradas 1]file:///home/carloshenriquee/Imagens/imagens/logincomsucesso.jpeg
-() | Tela 1 - Página de quadras cadastradas sem o novo cadastro
-![Login realizado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/31c97765-8bcb-4e28-90a3-1f44bfeacbf6) | Tela 2 - Login realizado com sucesso pelo usuário
+![Pagina de login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/259ce32f-8f8c-4ced-af19-7fa4679d3670) | Tela 1 - Página de login em branco, sem os dados.
+![Login realizado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-play-match/assets/124189270/31c97765-8bcb-4e28-90a3-1f44bfeacbf6) | Tela 2 - Dados preenchidos e login realizado com sucesso pelo usuário
