@@ -85,7 +85,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-20 |
 | Objetivo do Teste | Função de chegada de mensagens e notificações |
-| Passos | Passo 1: Inserir dados manualmente no console de navegador. Passo 2: Gerar os dados fornecidos pelo localstorage. Passo 3: Carregar do localstorage. |
+| Passos | Passo 1: Inserir dados manualmente no console de navegador. Passo 2: Gerar os dados fornecidos pelo localstorage. Passo 3: Carregar os dados do localstorage. |
 | Critérios de êxito | Deverá aparecer os dados inseridos na etapa anterior.|
 | Responsável pela elaborar do caso de Teste | Samara Lorena da Silva Barros |
 
