@@ -70,3 +70,23 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos | Passo 1 - Inserir dados no console do navagador para preencher o perfil de usuário. Passo 2 - Atualizar a página para que os dados apareçam preenchidos corretamente. Passo 3 - Colocar a senha correta, uma senha nova e uma senha diferente na confirmação de senha. Passo 4 - Clicar em Salvar Perfil  |
 | Critérios de êxito | Deve aparecer a mensagem: A confirmação de senha não corresponde à nova senha.  |
 | Responsável pela elaborar do caso de Teste | Eduardo Coutinho da Silva Junior |
+
+
+
+|Caso de Teste    | CT-001 - Botão de menu lateral |
+|:---|:---|
+| Requisitos Associados | RF-02 |
+| Objetivo do Teste | Testar funcionalidade do botão de menu lateral |
+| Passos | Passo único: Clicar no botão superior esquerdo |
+| Critérios de êxito | Abrir corretamente o menu lateral  |
+| Responsável pela elaborar do caso de Teste | Samara Lorena da Silva Barros |
+
+|Caso de Teste    | CT-002 - Menu de notificações e mensagens |
+|:---|:---|
+| Requisitos Associados | RF-20 |
+| Objetivo do Teste | Função de chegada de mensagens e notificações |
+| Passos | Passo 1: Inserir dados manualmente no console de navegador. Passo 2: Gerar os dados fornecidos pelo localstorage. Passo 3: Carregar do localstorage. |
+| Critérios de êxito | Deverá aparecer os dados inseridos na etapa anterior.|
+| Responsável pela elaborar do caso de Teste | Samara Lorena da Silva Barros |
+
+
