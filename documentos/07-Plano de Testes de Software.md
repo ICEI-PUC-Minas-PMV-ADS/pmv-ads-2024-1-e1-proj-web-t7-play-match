@@ -97,7 +97,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | Deverá guardar os dados inseridos para serem carregados na próxima etapa.|
 | Responsável pela elaborar do caso de Teste | Hana Karolina Neves Siqueira |
 
-|Caso de Teste    | CT-008 - Página de quadras |
+|Caso de Teste    | CT-009 - Página de quadras |
 |:---|:---|
 | Requisitos Associados | RF-04, RF-09, RF-10 |
 | Objetivo do Teste | Localizar quadras |
