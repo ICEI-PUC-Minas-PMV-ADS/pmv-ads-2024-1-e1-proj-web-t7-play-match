@@ -110,26 +110,12 @@
 | RF-04 | A aplicação deve permitir acesso aos quadros de horários das quadras | Alta |
 | RF-05 | A aplicação deve permitir acesso às modalidades esportivas disponíveis nas quadras cadastradas | Alta |
 | RF-06 | A aplicação deve restringir algumas funcionalidades para usuários não cadastrados (RF-07, RF-11, RF-12, RF-13, RF-17, RF-18, RF-20, RF-25)| Alta |
-| RF-07 | A aplicação deve permitir que o usuário faça a reserva de horário mediante pagamento | Média |
-| RF-08 | A aplicação deve fornecer informações sobre a disponibilidade das quadras que gravam partidas  | Baixa |
 | RF-09 | A aplicação deve permitir que os gestor da quadra publique fotos do seu ambiente para facilitar a escolha dos jogadores | Média  |
 | RF-10 | A aplicação deve possuir um sistema de filtro de pesquisa que permita os usuários encontrarem quadras | Média |
-| RF-11 | A aplicação deve oferecer um recurso de filtro de níveis dos usuários jogadores cadastrados | Baixa |
-| RF-12 | A aplicação deve permitir que os usuários avaliem as quadras | Média |
-| RF-13 | A aplicação deve oferecer funcionalidade de pesquisa de interesses dos usuários permitindo que eles se encontrem com mais facilidade | Baixa |
-| RF-14 | A aplicação deve permitir que o usuário localize por região | Alta |
-| RF-15 | A aplicação deve permitir que o usuário encontre professores de modalidades esportivas | Média |
-| RF-16 | A aplicação deve permitir o cadastro e criação de perfil de professores de modalidades esportivas | Alta |
-| RF-17 | A aplicação deve fazer a confirmação do agendamento mediante pagamento da reserva | Média |
-| RF-18 | A aplicação deve permitir que o usuário faça pagamento online da reserva | Alta |
-| RF-19 | A aplicação deve permitir a utilização de cupons de desconto | Baixa |
-| RF-20 | A aplicação deve enviar notificações para informar usuários sobre disponibilidade de quadras e/ou horários disponíveis | Média |
-| RF-21 | A aplicação deve permitir que o usuário filtre quadras por modalidades esportivas disponíveis | Alta |
-| RF-22 | A aplicação deve recomendar quadras de acordo com a(s) modalidade(s) esportiva(s) selecionadas pelo usuário | Alta |
-| RF-23 | A aplicação deve permitir que o usuário filtre os tipos de quadra   | Alta |
-| RF-24 | A aplicação deve permitir que o usuário acesse os perfis de professores de modalidades esportivas | Alta   |
-| RF-25 | A aplicação deve permitir que o usuário acesse histórico e comprovantes de pagamentos | Alta |
-| RF-26 | A aplicação deve permitir que o usuário acesse histórico de utilização da plataforma | Média |
+| RF-11 | A aplicação deve permitir que o usuário filtre quadras por modalidades esportivas disponíveis | Alta |
+| RF-12 | A aplicação deve permitir que o usuário filtre os tipos de quadra   | Alta |
+| RF-13 | A aplicação deve permitir que o usuário acesse histórico e comprovantes de pagamentos | Alta |
+| RF-14 | A aplicação deve permitir que o usuário acesse histórico de utilização da plataforma | Média |
 
 
 **Prioridade: Alta / Média / Baixa. 
